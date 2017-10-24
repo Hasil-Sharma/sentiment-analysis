@@ -1,7 +1,9 @@
 # sentiment-analysis
 
 Baseline Naive Bayes based sentiment analysis with Laplace Smoothing.
+
 Average Accuracy for K for validation : 89.44 %
+
 Summary of Cross Validation Running
 
 ```

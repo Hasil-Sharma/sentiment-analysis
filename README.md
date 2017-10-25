@@ -2,7 +2,7 @@
 
 Binary Naive Bayes based sentiment analysis with Laplace Smoothing, stemming and negation
 
-Average Accuracy for K for validation : 92.63 % (Better than [Baseline](https://github.com/Hasil-Sharma/sentiment-analysis/tree/baseline))
+Average Accuracy for K for validation : 93.13 % (Better than [Baseline](https://github.com/Hasil-Sharma/sentiment-analysis/tree/baseline))
 [Binary-Naive-Bayes](https://github.com/Hasil-Sharma/sentiment-analysis/tree/a1b4b1b0db335ebfc19fc22755bf398c9e191fa6)
 
 Summary of Cross Validation Running
